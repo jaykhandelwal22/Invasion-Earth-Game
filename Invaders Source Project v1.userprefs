@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game Level\SceneManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game Level\SceneManager.cs" Line="136" Column="1" />
+      <File FileName="Assets\Scripts\Game Level\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Bootstrapper Scene\Scripts\Animation\UnityLogoAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Credits\SceneManager_Credits.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Level\CannonProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Level\BlastRadius.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\CombineChildrenExtended.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Level\BackdropManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
